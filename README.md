@@ -3,10 +3,12 @@ Buatlah sebuah program sederhana dengan menggunakan bahasa pemrograman python ya
 2. Struktur data
 3. Library (minimal 2 library)
 
-**Sistem Rekomendasi Lagu Treasure Berdasarkan Mood
+**Sistem Rekomendasi Lagu Treasure Berdasarkan Mood**
+
 Program ini adalah program sederhana yang menggunakan bahasa pemrograman Python untuk memberikan rekomendasi lagu dari boygroup bernama Treasure berdasarkan mood dari pengguna.
 
 **Contoh Output**
+
 === Rekomendasi Lagu TREASURE Berdasarkan Mood ===
 
 Menu:
@@ -62,5 +64,7 @@ Riwayat mood:
 - santai
 - santai
 - galau
+
 Mood unik: {'galau', 'santai'}
+
 Waktu selesai: 2026-03-17 15:51:33.819966
